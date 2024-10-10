@@ -4,5 +4,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongBuBu)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudu12)](https://solved.ac/dudu12/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongBuBu)](https://github.com/anuraghazra/github-readme-stats)
