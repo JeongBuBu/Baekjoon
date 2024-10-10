@@ -1,5 +1,4 @@
-# Baekjoon
-## 백준 코딩 테스트
+# 백준 코딩 테스트
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongBuBu%2FBaekjoon-Online.git&count_bg=%238E82DD&title_bg=%238E82DD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
