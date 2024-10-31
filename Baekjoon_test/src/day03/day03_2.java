@@ -17,6 +17,6 @@ public class day03_2 {
 
         for (int j : arr) {
             System.out.println(j);
-        }
+            }
     }
 }
